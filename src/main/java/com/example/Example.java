@@ -1,1 +1,1 @@
-package com.example;import javax.swing.*;public class Example {    public String getInput() {        return JOptionPane.showInputDialog("Please enter \"FIS\"");    }}
+package com.example;import javax.swing.*;public class Example {    public String getInput() {        return JOptionPane.showInputDialog("Please enter the following: \"FIS\"");    }}
